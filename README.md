@@ -79,38 +79,13 @@ This project was created using the following technologies.
 
  ##  Screenshots 
 
-![img-1](https://github.com/berthutapea/mern-login-register-dashboard/assets/111676859/f44c3e0e-a82b-4797-a1d5-e565337245d8)
+![img-1](https://github.com/Topcoder415/MERN_Auth_dashboard/assets/111676859/f44c3e0e-a82b-4797-a1d5-e565337245d8)
 ---- -
-![img-2](https://github.com/berthutapea/mern-login-register-dashboard/assets/111676859/92131144-46a1-4b74-af0f-f817df506321)
+![img-2](https://github.com/Topcoder415/MERN_Auth_dashboard/assets/111676859/92131144-46a1-4b74-af0f-f817df506321)
 --- - 
-![img-3](https://github.com/berthutapea/mern-login-register-dashboard/assets/111676859/6f6051df-6738-4f53-a977-4955825dbf11)
-## Author
-- Portfolio: [berthutapea](https://berthutapea.vercel.app/)
-- Github: [berthutapea](https://github.com/berthutapea)
-- Sponsor: [berthutapea](https://saweria.co/berthutapea)
-- Linkedin: [gilberthutapea](https://www.linkedin.com/in/gilberthutapea/)
-- Email: [berthutapea@gmail.com](mailto:berthutapea@gmail.com)
+![img-3](https://github.com/Topcoder415/MERN_Auth_dashboard/assets/111676859/6f6051df-6738-4f53-a977-4955825dbf11)
 
-## License
 
-MIT License
 
-Copyright (c) 2022 Gilbert Hutapea
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
